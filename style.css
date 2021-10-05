@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap");
+
+body {
+  font-family: "Stick No Bills", sans-serif;
+  background-repeat: no-repeat;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://lh3.googleusercontent.com/rHHmA8Duyr0GK3kdLVySmL7wAyJXJM3iPO2DlgW122IyeSvjGAVnweb5MJW0vkiArA=h1024-no-tmp_conversor_de_temperatura_passo_a_passo_apk.jpg");
+  background-position: center bottom;
+  background-attachment: fixed;
+  min-height: 400px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.tituloDaPagina {
+  color: #000000;
+  margin: 0 0 5px;
+  font-size: 50;
+  text-align: center;
+}
+
+.subtituloDaPagina {
+  color: #000000;
+  margin-top: 5px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: blue;
+}
+
+label {
+  color: black;
+  font-size: 30px;
+  padding: 300px;
+  margin-top: -100px;
+}
+
+input {
+  margin: 11px;
+  padding: 8px 20px;
+  border-radius: 1000px;
+  text-align: center;
+}
+
+.container1 {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.celsiusParaFahrenheit {
+  text-aling: center;
+  padding: 10px;
+  height: 100vh;
+}
+
+button1 {
+  margin-top: 100px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  border-color: #000000;
+  background: #ff0000;
+  margin: 0px;
+}
+
+.celsiusParaKelvin {
+  text-align: center;
+  padding: 30px;
+  height: 90vh;
+}
+
+button2 {
+  margin-top: 100px;
+  padding: 8px 40px;
+  border-radius: 10px;
+  background: #ff0000;
+  margin: -30px;
+}
+
+.fahrenheitParaCelsius {
+  text-align: center;
+  padding: 30px;
+  height: 90vh;
+}
+
+button3 {
+  margin-top: 100px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  background: #3399ff;
+  margin: -30px;
+}
+
+.fahrenheitParaKelvin {
+  text-align: center;
+  padding: 30px;
+  height: 90vh;
+}
+
+button4 {
+  margin-top: 100px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  background: #3399ff;
+  margin: -30px;
+}
+
+.kelvinParaCelsius {
+  text-align: center;
+  padding: 30px;
+  height: 90vh;
+}
+
+button5 {
+  margin-top: 100px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  background: #ffcc00;
+  margin: -30px;
+}
+
+.kelvinParaFahrenheit {
+  text-align: center;
+  padding: 30px;
+  height: 90vh;
+}
+
+button6 {
+  margin-top: 100px;
+  padding: 8px 20px;
+  border-radius: 10px;
+  background: #ffcc00;
+  margin: -30px;
+  border-color: #000000;
+}
+
+h2 {
+  color: #ff0000;
+  font-size: 30px;
+}
